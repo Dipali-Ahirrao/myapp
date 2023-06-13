@@ -1,7 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 
 //1 create function app
+function App(){
+  return "Hello world";
+  
 }
 
+//2.export function
 export default App;
